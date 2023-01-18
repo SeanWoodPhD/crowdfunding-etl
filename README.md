@@ -81,7 +81,7 @@ These tasks are divided into the four deliverables shown below (from the Module 
 
     ![1.8.png](resources/1.8.png)
 
-4. Export the DataFrame as backers_data.csv.
+4. Export the DataFrame as [backers_data.csv](data/backers_data.csv).
 
     ![1.9.png](resources/1.9.png)
 
